@@ -1,0 +1,17 @@
+h1 {
+  color: #b5a456;
+}
+
+p {
+  color: #1c1c1c;
+}
+
+.container {
+  margin: 5rem 50px;
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    margin: 5rem 200px;
+  }
+}
