@@ -149,6 +149,9 @@ section > div > span {
   section {
     margin: 2rem 5rem;
   }
+  .features {
+    flex-direction: column;
+  }
 }
 
 footer > p {
